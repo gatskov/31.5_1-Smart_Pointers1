@@ -1,0 +1,3 @@
+"C:\Program Files\CMake\bin\cmake.exe" -E rm -f CMakeFiles\SmartPointers1.dir/objects.a
+C:\msys64\ucrt64\bin\ar.exe qc CMakeFiles\SmartPointers1.dir/objects.a @CMakeFiles\SmartPointers1.dir\objects1.rsp
+C:\msys64\ucrt64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\SmartPointers1.dir/objects.a -Wl,--no-whole-archive -o D:\VSCode\exemple4\SmartPointers1\bin\SmartPointers1.exe -Wl,--out-implib,D:\VSCode\exemple4\SmartPointers1\bin\libSmartPointers1.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\SmartPointers1.dir\linkLibs.rsp

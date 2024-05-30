@@ -1,0 +1,8 @@
+[
+{
+  "directory": "D:/VSCode/exemple4/SmartPointers1/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/SmartPointers1.dir/includes_CXX.rsp -g -o CMakeFiles\\SmartPointers1.dir\\src\\main.cpp.obj -c D:\\VSCode\\exemple4\\SmartPointers1\\src\\main.cpp",
+  "file": "D:/VSCode/exemple4/SmartPointers1/src/main.cpp",
+  "output": "CMakeFiles/SmartPointers1.dir/src/main.cpp.obj"
+}
+]
